@@ -1,0 +1,1 @@
+import type {MetadataRoute} from "next"; export default function sitemap():MetadataRoute.Sitemap{return[{url:"https://dzikie-wino.vercel.app",lastModified:new Date(),priority:1}]}
